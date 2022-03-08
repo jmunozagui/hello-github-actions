@@ -1,3 +1,3 @@
-#! /bin/sh -l
- 
-sh -c " echo Hola mundo mi nombre es $INPUT_MY_NAME "
+#!/bin/sh -l
+
+sh -c "echo Hello world my name is $INPUT_MY_NAME"
